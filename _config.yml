@@ -1,6 +1,6 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
-description: "Workshops and guides from the Map & Data Library, University of Toronto"
+title: "Spatial Analysis with ArcGIS Online"
+description: "Tutorial: learn how to use ArcGIS Online's spatial analysis tools to solve a real-world problem."
 url: "https://MDLutoronto.github.io/spatial-analysis-arcgis-online" # change the slug to the repo's name ('jtd-template' in this case)
 repository: "MDLutoronto/spatial-analysis-arcgis-online" # for github-metadata
 ## Navigation footer logos and links
